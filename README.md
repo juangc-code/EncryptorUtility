@@ -3,6 +3,8 @@ Java CLI for encrypting secrets
 
 
 ## Build
+`mvn clean package`
+
 `docker build -t encryptor-utility-cli .`
 
 ## Run
